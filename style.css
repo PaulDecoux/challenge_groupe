@@ -108,3 +108,13 @@ img{
 	height: 200px;
 	margin-top: 8px;
 }
+
+.box{
+	display: flex;
+	justify-content: space-around;
+}
+
+.telephone{
+	margin-top: 200px;
+	text-decoration: underline;
+}
